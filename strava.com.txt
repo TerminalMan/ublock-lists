@@ -10,3 +10,10 @@ www.strava.com###premium-views
 www.strava.com##[class *="upsell"]
 www.strava.com##.button.facebook.btn-default.btn
 www.strava.com##.twitter.button
+www.strava.com##[href="/athlete/routes"]
+www.strava.com##[href="/athlete/goals"]
+www.strava.com##[href="/athlete/heatmaps"]
+www.strava.com##[href="/routes/new"]
+www.strava.com##[href="/premium/perks"]
+www.strava.com##[class*="premium"]
+www.strava.com##[class*="mt-md mb-sm"]
