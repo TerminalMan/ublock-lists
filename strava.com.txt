@@ -18,3 +18,6 @@ www.strava.com##[href="/premium/perks"]
 www.strava.com##[class*="premium"]
 www.strava.com##[class*="mt-md mb-sm"]
 www.strava.com##div > div > div > div > div > div > div:has-text(Segment Effort Comparison):nth-ancestor(1)
+www.strava.com##.row.leaderboard
+www.strava.com##h2.text-title1:nth-of-type(1)
+www.strava.com##h2.text-title1:nth-of-type(2)
