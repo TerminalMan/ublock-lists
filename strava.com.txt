@@ -21,3 +21,4 @@ www.strava.com##div > div > div > div > div > div > div:has-text(Segment Effort 
 www.strava.com##.row.leaderboard
 www.strava.com##h2.text-title1:nth-of-type(1)
 www.strava.com##h2.text-title1:nth-of-type(2)
+www.strava.com##div[class*="PromoEntry"]:upward(2)
